@@ -27,3 +27,9 @@ h1 {
     font-weight: 700;
     margin-bottom: 20px;
 }
+
+#tippy {
+  color: #32ad86;
+  font-size: 0.6em;
+  user-select: none;
+}
