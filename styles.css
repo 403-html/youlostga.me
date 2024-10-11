@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+    color: #333333;
+    /* font family in preconnect */
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
